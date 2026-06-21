@@ -23,3 +23,11 @@
 *   **Security Configuration status:** 100% RHCSA EX200 Collaborative Folder Compliant
 
 > "The collaborative folder fabric stands armored with zero multi-user deletion drift."
+
+*   **Target User Account:** accountant_ali Security Identity
+*   **Maximum Password Age:** chage -M 90 (Strict 90-Day Rotation Constraint)
+*   **Account Hard Expiration:** chage -E "2026-12-31" (Hard Calendar Perimeter Lock)
+*   **Warning Threshold Window:** 7 Days (System automated notification ingress)
+*   **User Lifecycle Status:** 100% RHCSA EX200 Account Aging Policy Compliant
+
+> "The user identity ledger stands armored against authentication credential aging drift."
