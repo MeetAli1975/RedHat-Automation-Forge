@@ -49,3 +49,11 @@
 *   **Memory Configuration status:** 100% RHCSA EX200 Memory Swap Compliant
 
 > "The system virtual memory envelope stands expanded with zero swap overflow drift."
+
+*   **Background Automation:** System-Wide crontab Scheduler Engine
+*   **Execution Cadence:** Every Single Hour on the Dot (0 * * * *)
+*   **Absolute Script Path:** /home/alikhanm5.guest/RedHat-Automation-Forge/lean_audit.sh
+*   **Output Telemetry Log:** /home/alikhanm5.guest/RedHat-Automation-Forge/cron_execution.log
+*   **Scheduling Status:** 100% RHCSA EX200 Cron Job Task Scheduling Compliant
+
+> "The background task engine stands initialized with zero execution scheduling drift."
