@@ -31,3 +31,12 @@
 *   **User Lifecycle Status:** 100% RHCSA EX200 Account Aging Policy Compliant
 
 > "The user identity ledger stands armored against authentication credential aging drift."
+
+*   **SELinux Secure Path:** /opt/web_forge Document Root Gateway
+*   **Initial Fault Context:** unconfined_u:object_r:usr_t:s0 (Web process block risk)
+*   **Policy Addition Target:** semanage fcontext -a -t httpd_sys_content_t
+*   **Sectors Applied Rule:** restorecon -Rv /opt/web_forge
+*   **Hardened Target State:** unconfined_u:object_r:httpd_sys_content_t:s0
+*   **SELinux Context Status:** 100% RHCSA EX200 Targeted Policy Type Compliant
+
+> "The web daemon document real estate stands armored with zero SELinux type block drift."
