@@ -72,3 +72,12 @@
 *   **Identity Mapping Status:** 100% RHCSA EX200 Collaborative User Security Compliant
 
 > "The primary operator identity stands mapped with secure cross-directory group clearance."
+
+*   **Storage Quota Target:** accountant_ali Security Identity Allocation
+*   **Enforced Soft Boundary:** 80 Megabytes (81920 blocks warning trigger)
+*   **Enforced Hard Boundary:** 100 Megabytes (102400 blocks absolute block fence)
+*   **Filesystem Mount Partition:** Dedicated Mount (/mnt/quota_test) Space
+*   **Internal Feature Tuning:** tune2fs -O quota (Modern kernel native enforcement)
+*   **Quota Allocation Status:** 100% RHCSA EX200 User Disk Quota Compliant
+
+> "The user storage block footprint stands restricted against filesystem real estate exhaustion."
