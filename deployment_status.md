@@ -180,3 +180,29 @@
 *   **Classroom Readiness Status:** 100% Environment Audited and Verified for Tuesday
 
 > "The classroom learning environment stands synchronized, shined, and isolated from code drift."
+
+## =====================================================================
+##             MASTER AUTOMATION FORGE MULTI-NODE CLUSTER TOPOLOGY MAP
+## =====================================================================
+
+*   **NODE IDENTIFIER 01:** Standalone Ubuntu Linux Sandboxed Junction Node
+    *   *Operating Substrate OS:* Ubuntu Server LTS Architecture Subsystem
+    *   *Package Provisioning System:* Advanced Package Tool (apt) Package Matrix
+    *   *Operational Sandbox Purpose:* Cross-Platform App Ingress Container Testing
+
+*   **NODE IDENTIFIER 02:** Master Host Mac Core Server Tower Outpost
+    *   *Operating Substrate OS:* macOS Darwin Core (Apple Silicon M5 Hardware)
+    *   *Virtualization Interface:* Hypervisor Framework Loopback Driver Adapters
+    *   *Operational Sandbox Purpose:* Central Workspace Automation Presence Orchestration
+
+*   **NODE IDENTIFIER 03:** Primary Red Hat Enterprise Linux Forge Production Node
+    *   *Operating Substrate OS:* Red Hat Enterprise Linux (RHEL 9) Targeted Core
+    *   *Storage Volume Layout:* Persistent XFS Drive Storage Block Allocations
+    *   *Operational Sandbox Purpose:* Hardened Security Enforcement Policy Labs
+
+*   **NODE IDENTIFIER 04:** Standalone Oracle Linux Classroom Sandbox Platform Node
+    *   *Operating Substrate OS:* Oracle Linux Server (Linux 6.12 UEK8 Kernel)
+    *   *Architecture Engine Pipeline:* High-Velocity 64-Bit ARM Substrate (aarch64)
+    *   *Operational Sandbox Purpose:* Isolated Academic Curriculum Command Processing
+
+> "The unified multi-node cluster architecture stands audited, shined, and anchored with zero system environment drift."
