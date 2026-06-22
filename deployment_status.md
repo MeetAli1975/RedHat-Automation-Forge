@@ -162,3 +162,11 @@
 *   **Profile Parameter Status:** 100% RHCSA EX200 Environment Variable Configuration Compliant
 
 > "The system process environment substrate stands hardened with zero variable mapping drift."
+
+*   **Security Hardening Target:** pwquality.conf Password Complexity Enforcement Subsystem
+*   **Enforced Length Policy:** minlen = 12 (Strict 12-character minimum constraint)
+*   **Cryptographic Digit Ring:** minclass = 3 (Mandatory uppercase, lowercase, and digits)
+*   **Audit Verification Hook:** cat /etc/security/pwquality.conf
+*   **Compliance Status:** 100% RHCSA EX200 Local User Password Quality Compliant
+
+> "The system user credential footprint stands hardened against dictionary brute-force drift."
