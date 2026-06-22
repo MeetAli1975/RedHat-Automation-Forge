@@ -130,3 +130,11 @@
 *   **Archive Integrity Status:** 100% RHCSA EX200 System Archive & Backup Compliant
 
 > "The system real estate assets stand consolidated inside an optimized compressed container wrapper."
+
+*   **Storage Expansion Target:** LVM Logical Volume Management Subsystem
+*   **Dynamic Volume Extension:** lvextend -L +500M (Online space allocation)
+*   **Filesystem Growth Switch:** xfs_growfs / xfs_growfs (Downtime-free block stretch)
+*   **Target Volume Device:** /dev/mapper/cs-root Master Disk Mapper Group
+*   **LVM Allocation Status:** 100% RHCSA EX200 Dynamic Logical Volume Compliant
+
+> "The system logical volume real estate stands expanded with zero application runtime downtime drift."
