@@ -917,3 +917,15 @@
 *   **Kernel Telemetry Status:** 100% RHCSA EX200 Kernel Optimization Configuration Compliant
 
 > "The system core kernel runtime parameter substrate stands audited with zero sysctl tuning drift."
+
+## =====================================================================
+##       RHCSA 60-DAY SPRINT: INTER-PROCESS SIGNALING MANAGEMENT
+## =====================================================================
+
+*   **Security Infrastructure Target:** Advanced Process Priorities and Inter-Process Core Signaling
+*   **Kernel Signal Table Audit:** kill -l (Numerical signal configuration tracking)
+*   **Process Namespace Verification:** ps -ef (Process ID tracking and execution validation)
+*   **Process Management Scope:** SIGHUP (1), SIGKILL (9), and SIGTERM (15) runtime signal deployment mechanics
+*   **Process Telemetry Status:** 100% RHCSA EX200 Process Signaling and Control Configuration Compliant
+
+> "The system core kernel process signaling substrate stands audited with zero execution namespace drift."
