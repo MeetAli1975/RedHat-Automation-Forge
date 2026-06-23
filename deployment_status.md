@@ -497,3 +497,11 @@
 *   **Storage Telemetry Status:** 100% RHCSA EX200 Storage Volume Extensibility Configuration Compliant
 
 > "The system enterprise storage volume group substrate stands expanded with zero online file system drift."
+
+*   **Security Infrastructure Target:** Advanced Process Interception and Core Kernel Signals Management
+*   **Kernel Signal Table Audit:** kill -l (Numerical signal configuration tracking)
+*   **Process Namespace Verification:** ps -ef (Process ID tracking and execution validation)
+*   **Process Management Scope:** SIGTERM (15), SIGHUP (1), and SIGKILL (-9) raw kernel signal injection
+*   **Process Telemetry Status:** 100% RHCSA EX200 Process Management Configuration Compliant
+
+> "The system core kernel process signaling substrate stands audited with zero execution namespace drift."
