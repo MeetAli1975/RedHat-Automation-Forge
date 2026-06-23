@@ -661,3 +661,16 @@
 *   **Text Filtering Telemetry Status:** 100% RHCSA EX200 Text Processing Configuration Compliant
 
 > "The system text filtering and regex modification substrate stands audited with zero extraction data drift."
+
+## =====================================================================
+##       RHCSA 60-DAY SPRINT: PROCESS SCHEDULING & PRIORITY TUNING
+## =====================================================================
+
+*   **Learning Plan Track:** Day 12 / 60-Day Core Systems Engineering Acceleration Blueprint
+*   **Target Subsystem Core:** Kernel Task Scheduler, Priority Matrixing, and Niceness Value Allocation
+*   **Nice Value Audit:** ps -eo pid,ni,comm (Active thread priority monitoring and logging)
+*   **Dynamic Renice Scope:** nice -n / renice (Real-time thread de-escalation and performance priority control)
+*   **Scheduling Optimization:** Load average mitigation, runaway thread throttling, and system clock cycle preservation
+*   **Scheduler Telemetry Status:** 100% RHCSA EX200 Process Scheduling Configuration Compliant
+
+> "The system dynamic task scheduling substrate stands audited with zero performance priority drift."
