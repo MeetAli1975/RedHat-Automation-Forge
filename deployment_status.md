@@ -929,3 +929,16 @@
 *   **Process Telemetry Status:** 100% RHCSA EX200 Process Signaling and Control Configuration Compliant
 
 > "The system core kernel process signaling substrate stands audited with zero execution namespace drift."
+
+## =====================================================================
+##       RHCSA 60-DAY SPRINT: ADVANCED BATCH-MODE PROCESS MONITORING
+## =====================================================================
+
+*   **Learning Plan Track:** Day 25 / 60-Day Core Systems Engineering Acceleration Blueprint
+*   **Target Subsystem Core:** Headless Non-Interactive Process Profiling and Real-Time Load Capture
+*   **Advanced Scripting Trick:** top -b -n 1 | head -n 5 (Automated batch-mode scheduler thread snapshot)
+*   **Metric Isolation Shard:** uptime | awk -F'load average:' '{print $2}' (Clean numerical queue monitoring)
+*   **Performance Engineering Scope:** Non-graphical monitoring automation, resource bottleneck isolation, and log dump mapping
+*   **Performance Telemetry Status:** 100% RHCSA EX200 Advanced Process Performance Diagnostics Compliant
+
+> "The system non-interactive performance profiling substrate stands calibrated with zero scheduler visibility drift."
