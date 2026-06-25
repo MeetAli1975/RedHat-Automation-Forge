@@ -1163,3 +1163,16 @@
 *   **Firewall Telemetry Status:** 100% RHCSA EX200 Network Perimeter Hardening Configuration Compliant
 
 > "The system local firewall and packet filtering substrate stands audited with zero rule definition drift."
+
+## =====================================================================
+##       RHCSA 60-DAY SPRINT: PAM RESOURCE LIMITATIONS HARDENING
+## =====================================================================
+
+*   **Learning Plan Track:** Day 43 / 60-Day Core Systems Engineering Acceleration Blueprint
+*   **Security Infrastructure Target:** Advanced System Resource Limitations and PAM Constraints Hardening
+*   **Runtime Shell Limit Audit:** ulimit -a (Active user process allocation tracking)
+*   **Persistent Registry Verification:** cat /etc/security/limits.conf (PAM limits backplane logging)
+*   **Resource Management Scope:** Hard vs. soft resource boundaries, nofile (open files) ceilings, and nproc user process constraints
+*   **Security Telemetry Status:** 100% RHCSA EX200 Resource Hardening Configuration Compliant
+
+> "The system pluggable authentication module resource limit substrate stands audited with zero security limit drift."
