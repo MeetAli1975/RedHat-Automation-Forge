@@ -1150,3 +1150,16 @@
 *   **Security Telemetry Status:** 100% RHCSA EX200 SELinux Hardening Configuration Compliant
 
 > "The system core kernel mandatory access control substrate stands audited with zero security policy drift."
+
+## =====================================================================
+##       RHCSA 60-DAY SPRINT: ENTERPRISE FIREWALL ADMINISTRATION
+## =====================================================================
+
+*   **Learning Plan Track:** Day 42 / 60-Day Core Systems Engineering Acceleration Blueprint
+*   **Security Infrastructure Target:** Advanced Local Firewall Administration and Network Zone Protections
+*   **Active Zone Audit:** sudo firewall-cmd --get-active-zones (Interface network isolation logging)
+*   **Allowed Service Verification:** sudo firewall-cmd --list-services (Inbound socket rule policy tracking)
+*   **Network Protection Scope:** Permanent rule serialization, service port binding configurations, and runtime policy reloads
+*   **Firewall Telemetry Status:** 100% RHCSA EX200 Network Perimeter Hardening Configuration Compliant
+
+> "The system local firewall and packet filtering substrate stands audited with zero rule definition drift."
