@@ -1298,3 +1298,16 @@
 *   **Security Telemetry Status:** 100% RHCSA EX200 System Logging Hardening Configuration Compliant
 
 > "The system core logging daemon and facility filter substrate stands audited with zero log tracking drift."
+
+## =====================================================================
+##       RHCSA 60-DAY SPRINT: SYSTEM TIMERS & CRONTAB AUTOMATION
+## =====================================================================
+
+*   **Learning Plan Track:** Day 49 / 60-Day Core Systems Engineering Acceleration Blueprint
+*   **Security Infrastructure Target:** Advanced System Timers, Cron Tab Scheduling, and Automation Maintenance Job Architectures
+*   **Active Job Audit:** crontab -l (User spool directory batch layout verification logging)
+*   **Time Array Syntax:** Minute Hour DayOfMonth Month DayOfWeek (5-field schedule matrix mapping)
+*   **Automation Hardening Scope:** Headless background job configuration, crontab -e execution loops, and automated error piping
+*   **Security Telemetry Status:** 100% RHCSA EX200 Scheduled Batch Job Hardening Configuration Compliant
+
+> "The system background batch scheduling and automated cron substrate stands audited with zero scheduler drift."
