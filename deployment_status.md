@@ -1363,3 +1363,16 @@
 *   **Storage Telemetry Status:** 100% RHCSA EX200 Logical Volume Configuration Compliant
 
 > "The system logical volume manager and storage virtualization substrate stands audited with zero volume drift."
+
+## =====================================================================
+##       RHCSA 60-DAY SPRINT: FILE SYSTEM LAYOUTS & PERSISTENT MOUNTS
+## =====================================================================
+
+*   **Learning Plan Track:** Day 54 / 60-Day Core Systems Engineering Acceleration Blueprint
+*   **Security Infrastructure Target:** Advanced Enterprise Storage File System Layouts and Persistent Mounts
+*   **Block Formatting Registry:** mkfs.xfs /dev/storage_vg/lv_data (XFS deployment verification)
+*   **Persistence Table Entry:** /etc/fstab entries (UUID/device mapper persistent block mount mapping)
+*   **Storage Mount Validation:** mount -a (Verifying layout table integrity with zero mount option drift)
+*   **Storage Telemetry Status:** 100% RHCSA EX200 Persistent File System Configuration Compliant
+
+> "The system enterprise file system layout table and persistent mount substrate stands audited with zero mounting drift."
