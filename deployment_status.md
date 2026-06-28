@@ -1415,3 +1415,16 @@
 *   **Network Telemetry Status:** 100% RHCSA EX200 Advanced DNS Override Configuration Compliant
 
 > "The system advanced local DNS override database and multi-node loopback substrate stands audited with zero lookup drift."
+
+## =====================================================================
+##       RHCSA 60-DAY SPRINT: ADVANCED LVM SCALING & DISK EXTENSIONS
+## =====================================================================
+
+*   **Learning Plan Track:** Day 58 / 60-Day Core Systems Engineering Acceleration Blueprint
+*   **Security Infrastructure Target:** Advanced LVM Disk Scaling, Volume Group Appends, and Live Online Filesystem Extensions
+*   **Physical Ingress Block:** sudo pvcreate /dev/sdc (Initializing bare-metal storage drives for virtual resource pools)
+*   **Volume Expansion Gate:** sudo vgextend storage_vg /dev/sdc && sudo lvextend -r -l +100%FREE /dev/storage_vg/lv_data
+*   **Online Growth Command:** xfs_growfs /data (Executing live filesystem expansion loops with zero mount point drift)
+*   **Network Telemetry Status:** 100% RHCSA EX200 Logical Volume Extension Configuration Compliant
+
+> "The system logical volume allocation blueprint and live file system growth substrate stands audited with zero storage drift."
