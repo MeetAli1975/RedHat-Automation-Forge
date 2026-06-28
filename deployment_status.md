@@ -1428,3 +1428,16 @@
 *   **Network Telemetry Status:** 100% RHCSA EX200 Logical Volume Extension Configuration Compliant
 
 > "The system logical volume allocation blueprint and live file system growth substrate stands audited with zero storage drift."
+
+## =====================================================================
+##       RHCSA 60-DAY SPRINT: NETWORK FILE SYSTEMS & MOUNT PERSISTENCE
+## =====================================================================
+
+*   **Learning Plan Track:** Day 59 / 60-Day Core Systems Engineering Acceleration Blueprint
+*   **Security Infrastructure Target:** Advanced Network File System (NFS) Persistent Mount Storage Topologies and Export tables
+*   **Host Export Registry:** sudo vi /etc/exports (Publishing storage arrays with strict async/sync subnet mask access guards)
+*   **Client Persistence Table:** /etc/fstab entry: node-03:/share /mnt/nfs nfs defaults,_netdev 0 0 (Reboot-proof mapping loops)
+*   **Security Firewall Policy:** sudo firewall-cmd --permanent --add-service=nfs (Hardening transport layer access filters)
+*   **Network Telemetry Status:** 100% RHCSA EX200 Network Storage Configuration Compliant
+
+> "The system network file system export table and client-side mount persistence substrate stands audited with zero storage drift."
